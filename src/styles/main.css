@@ -1,0 +1,22 @@
+.trigger{
+    margin-left: 15px;
+    font-size: 30px;
+}
+.trigger:hover {
+    color: #1890ff;
+}
+
+#logo {
+    padding: 10px;
+    background-color: darkseagreen;
+    text-align: center;
+}
+.ql-toolbar {
+    background-color: #f3f3f3;
+    /* Additional toolbar styles */
+}
+
+/* Customize specific buttons or elements within the toolbar */
+.ql-bold {
+    /* Style for the 'bold' button */
+}

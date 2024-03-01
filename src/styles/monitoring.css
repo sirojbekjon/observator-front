@@ -1,0 +1,30 @@
+.clock{
+    overflow: hidden;
+    text-align: center;
+}
+.clock h2{
+    border: 2px solid white;
+    font-family: monospace;
+    border-radius: 5px;
+    padding: 10px 0;
+    background-color: #170e57;
+    box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+    color: white;
+}
+.custom-font-table td, th{
+    font-family: monospace!important;
+    text-align: center!important;
+}
+.custom-font-table th{
+    font-size: 15px!important;
+}
+.containerr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textt {
+    text-align: center;
+    color: #170e57;
+}

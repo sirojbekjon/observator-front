@@ -1,0 +1,31 @@
+.back{
+    background: url("../images/Untiasedasdtled-1.png");
+    background-size: cover;
+    height: 100vh;
+    padding: 24px;
+}
+.svg-map {
+    width: 100%;
+    height: auto;
+    stroke: #ffffff;
+    stroke-width: 1;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+.svg-map__location {
+    fill: #111f65;
+    cursor: pointer;
+}
+.svg-map__location:focus, .svg-map__location:hover {
+    fill: #efd2d2;
+    outline: 0;
+}
+.svg-map__location[aria-checked=true] {
+    fill: #f4bc44;
+}
+.ant-layout-content{
+    padding: 0!important;
+}
+
+
+

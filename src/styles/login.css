@@ -1,0 +1,32 @@
+#loginBody{
+    background-image: url("../images/123.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+#rowLogin{
+    height: 100vh;
+}
+#divCard{
+    display: flex;
+    align-items: center;
+    margin-left: 800px;
+}
+#cardStyle{
+    background-image: linear-gradient(60deg, #15063f 0%, #143c5e 50%, #2b3d42 65%, #05222f 100%);
+    box-shadow: 0 0 5px 5px rgba(255, 255, 255, .3);
+}
+#inputTopText{
+    color: white;
+}
+#submitButton{
+    background-image: linear-gradient(120deg, #49638d 0%, #58cafa 100%);
+    border: 0;
+}
+#submitButton:hover{
+    box-shadow: 0 0 8px 8px rgba(255, 255, 255, .2);
+}
+body{
+    font-family: monospace!important;
+}
